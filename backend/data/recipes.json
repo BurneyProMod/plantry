@@ -1,0 +1,22 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Pancakes",
+      "ingredients": {
+        "flour": 100.0,
+        "egg": 1.0,
+        "milk": 200.0
+      }
+    },
+    {
+      "id": 2,
+      "name": "Omelette",
+      "ingredients": {
+        "egg": 2.0,
+        "cheese": 50.0,
+        "milk": 50.0
+      }
+    }
+  ]
+}
